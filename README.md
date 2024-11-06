@@ -21,10 +21,10 @@ I am always eager to learn more and collaborate on projects that involve data an
 ---
 
 ### 🔬 Research Interests:
-- Particle Physics
 - Data-Driven Modeling
 - Large-Scale Data Analysis
 - Scientific Computing
+- Particle Physics
 
 ---
 
