@@ -1,6 +1,6 @@
 # Hi, I'm Bipen Singh! 👋
 
-  **Ph.D. in Experimental High Energy Physics | Business Intelligence & Data Analyst Enthusiast**
+  **Ph.D. in Computational Physics | Business Intelligence & Data Analyst Enthusiast**
 
 ---
 
