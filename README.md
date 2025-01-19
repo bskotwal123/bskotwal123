@@ -8,6 +8,14 @@
 
 I have experience and a strong interest in:
 
+**Technical Skills**:
+•	SQL, Python, Tableau, Power BI, ROOT, Advanced Excel (Pivot Tables, VLOOKUP, Macros), Google Sheets
+**Data Analysis & Visualization**:
+•	Data Analysis, Data Visualization, Predictive Analytics, Data Mining, ETL Processes, Statistical Analysis, Monte Carlo Simulations, Performance Metrics
+**Business Intelligence & Reporting**:
+•	Dashboard Creation, KPI Reporting, Data Cleaning, Data Integration, Reporting Automation, Business Process Improvement
+
+
 - **SQL**: Working with databases for querying, data manipulation, and analysis.
 - **Advanced Spreadsheets**: Using Excel and Google Sheets for complex data analysis and visualization.
 - **Tableau**: Building interactive dashboards and visualizations to extract insights from data.
@@ -21,16 +29,20 @@ I am always eager to learn more and collaborate on projects that involve data an
 ---
 
 ### 🔬 Research Interests:
-- Data-Driven Modeling
-- Large-Scale Data Analysis
-- Scientific Computing
-- Particle Physics
+- Data Analytics & Business Intelligence: Leveraging tools like SQL, Power BI, and Tableau for insights and decision-making.
+- Computational Physics: Modeling and simulation of physical systems using advanced computational techniques.
+- Machine Learning & AI Applications: Implementing algorithms for predictive analytics and process optimization.
+- Data Visualization: Crafting compelling, data-driven narratives through visual storytelling.
+- Big Data Analytics: Exploring large datasets for trends and actionable insights.
+- Interdisciplinary Problem-Solving: Applying analytical methods to diverse domains like finance, healthcare, and engineering.
 
 ---
 
 ### 👨‍🏫 Teaching Experience:
-- Physics
-- Data Analysis
+- Taught data analysis and visualization to 200+ students, integrating real-world projects for better engagement.
+- Guided students in Monte Carlo simulations and ROOT analysis, improving outcomes by 15%.
+- Mentored 20+ students on real-world data workflows and case studies to develop problem-solving skills.
+- Presented research insights and visualization techniques at international conferences to 500+ experts.
 
 ---
 
