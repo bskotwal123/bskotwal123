@@ -9,12 +9,13 @@
 I have experience and a strong interest in:
 
 - **Technical Skills**:
-- SQL, Python, Tableau, Power BI, ROOT, Advanced Excel (Pivot Tables, VLOOKUP, Macros), Google Sheets.
+  SQL, Python, Tableau, Power BI, ROOT, Advanced Excel (Pivot Tables, VLOOKUP, Macros), Google Sheets.
 - **Data Analysis & Visualization**:
-- Data Analysis, Data Visualization, Predictive Analytics, Data Mining, ETL Processes, Statistical Analysis, Monte Carlo Simulations, Performance Metrics.
+  Data Analysis, Data Visualization, Predictive Analytics, Data Mining, ETL Processes, Statistical Analysis, Monte Carlo Simulations, Performance Metrics.
 - **Business Intelligence & Reporting**:
-- Dashboard Creation, KPI Reporting, Data Cleaning, Data Integration, Reporting Automation, Business Process Improvement.
-- **Scientific Computing**: Applying computational methods for data modeling, simulation, and analysis in scientific contexts.
+  Dashboard Creation, KPI Reporting, Data Cleaning, Data Integration, Reporting Automation, Business Process Improvement.
+- **Scientific Computing**:
+  Applying computational methods for data modeling, simulation, and analysis in scientific contexts.
 
 I am always eager to learn more and collaborate on projects that involve data analysis, business intelligence, and data-driven decision-making.
 
