@@ -14,14 +14,6 @@ I have experience and a strong interest in:
 - Data Analysis, Data Visualization, Predictive Analytics, Data Mining, ETL Processes, Statistical Analysis, Monte Carlo Simulations, Performance Metrics.
 - **Business Intelligence & Reporting**:
 - Dashboard Creation, KPI Reporting, Data Cleaning, Data Integration, Reporting Automation, Business Process Improvement.
-
-
-- **SQL**: Working with databases for querying, data manipulation, and analysis.
-- **Advanced Spreadsheets**: Using Excel and Google Sheets for complex data analysis and visualization.
-- **Tableau**: Building interactive dashboards and visualizations to extract insights from data.
-- **Power BI**: Developing business intelligence reports and visualizations to support decision-making.
-- **Python**: Leveraging libraries such as Pandas, NumPy, and Matplotlib for data analysis, automation, and visualization.
-- **ROOT**: Utilizing the ROOT framework for scientific computing and data analysis, especially in research settings.
 - **Scientific Computing**: Applying computational methods for data modeling, simulation, and analysis in scientific contexts.
 
 I am always eager to learn more and collaborate on projects that involve data analysis, business intelligence, and data-driven decision-making.
