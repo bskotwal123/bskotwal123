@@ -36,7 +36,7 @@ I am always eager to learn more and collaborate on projects that involve data an
 ### 👨‍🏫 Teaching Experience:
 - Taught data analysis and visualization to 200+ students, integrating real-world projects for better engagement.
 - Guided students in Monte Carlo simulations and ROOT analysis, improving outcomes by 15%.
-- Mentored 20+ students on real-world data workflows and case studies to develop problem-solving skills.
+- Mentored 80+ students on real-world data workflows and case studies to develop problem-solving skills.
 - Presented research insights and visualization techniques at international conferences to 500+ experts.
 
 ---
